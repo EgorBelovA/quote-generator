@@ -1,2 +1,30 @@
-# quote-generator
-Quote Generator delivers fresh, inspiring, or witty quotes with a single click. Perfect for creators, writers, and anyone seeking motivation or ideas. Use it to spark creativity, enhance projects, or add uplifting moments to your day.
+# Quote Generator API
+
+Генератор цитат выдает свежие, остроумные цитаты Джейсона Стэтхема. Идеально подходит для создателей контента, разработчиков и всех, кто ищет мотивацию. Используйте его, чтобы разбудить творческий потенциал, улучшить проекты или добавить мудрости в стиле Стэтхема в свой день.
+
+## <img src='Screenshot%202025-12-10%20at%2010.19.10.png' style='border-radius: 20px;' alt="Screenshot" width="600"/>
+
+## Функционал
+
+- **REST API** для работы с цитатами Джейсона Стэтхэма
+- **Случайная цитата** — `GET /api/quotes/random`
+- **100+ цитат** Стэтхэма на русском
+- **Custom middleware** и модульная архитектура
+
+## <img src='Screenshot 2025-12-10 at 10.19.52.png' style='border-radius: 20px;' alt="Screenshot" width="600"/>
+
+## Endpoints
+
+```
+/api/quotes/random
+```
+
+## Установка и запуск
+
+```
+npm i
+```
+
+```
+npm start
+```

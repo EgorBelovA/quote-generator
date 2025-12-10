@@ -1,0 +1,25 @@
+{
+  "name": "quote-generator",
+  "version": "1.0.0",
+  "description": "Quote Generator delivers fresh, inspiring, or witty quotes with a single click. Perfect for creators, writers, and anyone seeking motivation or ideas. Use it to spark creativity, enhance projects, or add uplifting moments to your day.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgorBelovA/quote-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EgorBelovA/quote-generator/issues"
+  },
+  "homepage": "https://github.com/EgorBelovA/quote-generator#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
